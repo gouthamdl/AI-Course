@@ -1,0 +1,12 @@
+
+- Type the following command in the same directory as the code
+	
+	python AStarSearch.py x y
+	
+	Note x and y are integer values that have to be entered. They represent the x and y co-ordinates of the goal cell respectively.
+	
+	For eg:
+	python AStarSearch.py 4 5
+	This will generate the solution to go from (0,0) to (4,5)
+	
+- I used Python 2.7.3 for implementing this problem.
